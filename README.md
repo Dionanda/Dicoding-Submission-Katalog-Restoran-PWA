@@ -6,8 +6,8 @@ This repository is the second submission I made for the Become a Front-End Web D
 Get the repo
 
 ```cmd
-git clone https://github.com/Dionanda/Dicoding-Submission-Katalog-Restoran.git
-cd Dicoding-Submission-Katalog-Restoran
+git clone https://github.com/Dionanda/Dicoding-Submission-Katalog-Restoran-PWA.git
+cd Dicoding-Submission-Katalog-Restoran-PWA
 yarn install or npm install
 ```
 
